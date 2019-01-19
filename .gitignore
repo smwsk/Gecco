@@ -1,0 +1,23 @@
+# Intellij project files
+/target/
+/.settings/
+*.iml
+.iml
+*.ipr
+*.iws
+.idea/
+.idea
+target
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Gradle files
+.gradle/
+build/
+build
+dist 
+.settings   
