@@ -1,4 +1,4 @@
-package com.smu.gecco.admin;
+package com.smu.gecco.gecco.admin;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

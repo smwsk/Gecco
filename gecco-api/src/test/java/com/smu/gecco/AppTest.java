@@ -1,4 +1,4 @@
-package com.smu;
+package com.smu.gecco;
 
 import static org.junit.Assert.assertTrue;
 

@@ -7,24 +7,24 @@
         <groupId>com.smu</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>gecco-api</artifactId>
-    <name>gecco-api</name>
-    <url>http://www.example.com</url>
-    <description>gecco-dubbo-对外提供的API</description>
 
-    <properties>
-    </properties>
+    <artifactId>gecco-parent</artifactId>
+    <packaging>pom</packaging>
+
 
     <dependencies>
+        <!--数据库-->
         <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.11</version>
-            <scope>test</scope>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
         </dependency>
 
+        <!--mybatis-->
+        <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+        </dependency>
     </dependencies>
 
 </project>

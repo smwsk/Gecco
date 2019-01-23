@@ -1,4 +1,4 @@
-package com.smu.geccoprovider;
+package com.smu.gecco.provider;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

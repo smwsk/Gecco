@@ -1,4 +1,4 @@
-package com.smu.geccoconsumer;
+package com.smu.gecco.consumer;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
